@@ -4,7 +4,7 @@
 ---
 
 ### 🌐 Portfolio
-👉 [Visit My Portfolio](https://portfolio-website-5udy.vercel.app/#contact)
+👉 [Visit My Portfolio](https://gutu-portfolio-2.vercel.app/)
 
 ---
 
