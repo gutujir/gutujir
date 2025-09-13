@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Developer with over **2 years of hands-on experience** building fast, accessible, and scalable digital solutions.
+I'm a Full-Stack Developer with over **1 years of hands-on experience** building fast, accessible, and scalable digital solutions.
 
 - 💻 I specialize in **React** and **Next.js** on the frontend
 - 🧠 On the backend, I work with **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**
